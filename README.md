@@ -1,5 +1,5 @@
 # Python error/event logger:
-Easy to use commands to log errors and events in a ./logs dirctory:
+Easy to use commands to log errors and events in a ./logs dirctory:<br>
 <b><i>log_error(reporting_program_name, error_message)<br>
 log_event(reporting_program_name, event_message)</i></b><br>
 
