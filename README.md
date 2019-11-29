@@ -1,7 +1,7 @@
 # Python error/event logger:
 Easy to use commands to log errors and events in a ./logs dirctory:<br>
-<b><i>log_error(reporting_program_name, error_message)<br>
-log_event(reporting_program_name, event_message)</i></b><br>
+<i>log_error(<b>reporting_program_name</b>, <b>error_message</b>)<br>
+log_event(<b>reporting_program_name</b>, <b>event_message</b>)</i><br>
 
 ## Usage and examples:
 Place this file in the directory of your python code and<br>
