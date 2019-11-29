@@ -14,7 +14,8 @@ Easy to use commands to log errors and events in a ./logs dirctory:<br>
   `log_event(reporting_program_name, event_message)`
 
 - The messages get created in:<br>
-`./logs/error.log and events.log`
+`./logs/error.log` - error messages will appear here
+`./logs/events.log` - event and error messages will appear here 
 
 - Here is how the logs will appear:<br>
 `2019-11-29 12:25:36 reporting_program_name [ERROR]: your custom error message here`<br>
