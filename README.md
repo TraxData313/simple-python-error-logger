@@ -13,7 +13,7 @@ Easy to use commands to log errors and events in a ./logs dirctory:<br>
   `log_error(reporting_program_name, error_message)`<br>
   `log_event(reporting_program_name, event_message)`
 
-- The messages get created in:<br>
+- The messages are created in:<br>
 `./logs/error.log` - error messages will appear here<br>
 `./logs/events.log` - event and error messages will appear here 
 
