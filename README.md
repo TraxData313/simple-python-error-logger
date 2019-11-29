@@ -1,5 +1,7 @@
-# simple-python-error-logger
-Easy to use module to log errors and events
+# Python error/event logger:
+Easy to use commands to log errors and events in a ./logs dirctory:
+<b><i>log_error(reporting_program_name, error_message)<br>
+log_event(reporting_program_name, event_message)</i></b><br>
 
 ## Usage and examples:
 Place this file in the directory of your python code and<br>
