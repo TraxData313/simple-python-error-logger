@@ -12,7 +12,7 @@ log_event(<b>reporting_program_name</b>, <b>event_message</b>)</i><br>
 - Define the reporting_program_name at the beggining of your program, when you have to log and error or an event, set the message you want to report in
   <i>error_message = "your error here" or event_message = "your event here"</i><br>
 <br>
-and use the loggers as follows:<br>
+- - and use the loggers as follows:<br>
   <i>log_error(reporting_program_name, error_message)<br>
   log_event(reporting_program_name, event_message)</i><br>
 <br>
