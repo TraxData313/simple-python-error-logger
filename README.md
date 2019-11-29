@@ -18,4 +18,4 @@ log_event(<b>reporting_program_name</b>, <b>event_message</b>)</i><br>
 
 - Here is how the logs will appear:<br>
 `2019-11-29 12:25:36 reporting_program_name [ERROR]: your error here`<br>
-`2019-11-29 12:25:36 reporting_program_name [EVENT]: your event here``
+`2019-11-29 12:25:36 reporting_program_name [EVENT]: your event here`
