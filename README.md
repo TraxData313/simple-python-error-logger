@@ -3,6 +3,8 @@ Easy to use commands to log errors and events in a ./logs dirctory:<br>
 <i>log_error(<b>reporting_program_name</b>, <b>error_message</b>)<br>
 log_event(<b>reporting_program_name</b>, <b>event_message</b>)</i><br>
 
+<hr>
+
 ## Usage and examples:
 Place this file in the directory of your python code and<br>
 in the code import the module by:<br>
